@@ -3,7 +3,7 @@
 A fun example of routing user intent to "informative" or "chitchat" responses. Uses an old GPT model as a placeholder/example of how larger companies will use the same idea with better GPTs. 
 
 # Requirements to run
--python (recommended version 3.7-3.10)
+-python (recommended version 3.7-3.10)  
 -Hugging Face Transformers* (4.47.1)  
 -pytorch*  
 
